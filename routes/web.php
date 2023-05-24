@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 
-// livewire route
+// LIVEWIRE route
 Route::get('users',App\Http\Livewire\User\User::class);

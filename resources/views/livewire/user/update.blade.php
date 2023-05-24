@@ -1,3 +1,4 @@
+<!-- LIVEWIRE -->
 <div>
     <h2 class="text-center mt-20">User Update</h2>
     <form name="update">

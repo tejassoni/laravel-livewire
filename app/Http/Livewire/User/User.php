@@ -5,6 +5,7 @@ namespace App\Http\Livewire\User;
 use App\Models\User as ModelsUser;
 use Livewire\Component;
 
+# LIVEWIRE
 class User extends Component
 {
     public $users, $user_id, $name, $gender, $date, $mobile, $email, $birthdate;
