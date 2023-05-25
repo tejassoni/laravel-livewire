@@ -1,4 +1,3 @@
-<!-- LIVEWIRE -->
 <div class="container">  
     @section('title','User Module')
     @if (session()->has('success'))

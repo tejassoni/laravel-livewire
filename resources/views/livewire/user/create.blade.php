@@ -1,4 +1,3 @@
-<!-- LIVEWIRE -->
 <div>
     <h2 class="text-center mt-20">User Create</h2>
     <form name="create">

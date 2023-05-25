@@ -1,4 +1,3 @@
-<!-- LIVEWIRE -->
 <h2 class="text-center mt-20">User Lists</h2>
 <button class="btn btn-sm btn-success" wire:click="addUserView">Add New</button>
 <table class="table table-bordered mt-5">
